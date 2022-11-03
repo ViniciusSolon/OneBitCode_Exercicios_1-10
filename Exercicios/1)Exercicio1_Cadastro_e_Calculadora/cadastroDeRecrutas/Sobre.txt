@@ -1,0 +1,4 @@
+1. Um programa em javascript que permite salvar informações de um recruta.
+2. As informações a serem salvas são: O primeiro nome, sobrenome, campo de estudo e
+ano de nascimento.
+3. Depois o programa deve exibir o nome completo do recruta, seu campo de estudo e sua idade(Apenas baseada no ano de nascimento)

@@ -1,0 +1,2 @@
+1. Um programa em javascript que permita inserir dois valores numéricos e então calcule o resultado das quatro operações básicas(Soma, Subtração, Multiplicação e divisão).
+2. Após calcular os resultados o programa deve exibi-los na tela.
